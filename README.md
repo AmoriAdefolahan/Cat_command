@@ -24,5 +24,4 @@ Example
 
 ## Author Name
 
-[Alexander Monterrosa](https://github.com/Alex108-lab)
-
+Amori Adefolahan 
